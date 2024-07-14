@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">
+  Hey there, I'm Meharun Nesa
+  <img src="https://github.com/taemie0/taemie0/blob/main/crayon-shinchan.gif" alt="Crayon Shinchan playing guitar" height="50"/>
+</h1>
 
-<!--
-**taemie0/taemie0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/meharun-nesa-534bb72a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.codechef.com/users/taemie" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/taemie" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%234A4A4A.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taemie0&show_icons=true&locale=en&theme=material-palenight" alt="taemie0" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taemie0&theme=material-palenight" alt="taemie0" />
+</p>
+
+
