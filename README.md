@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm Meharun Nesa
+  Hey there, I'm Meharun
   <img src="https://github.com/taemie0/taemie0/blob/main/crayon-shinchan.gif" alt="Crayon Shinchan playing guitar" height="50"/>
 </h1>
 
