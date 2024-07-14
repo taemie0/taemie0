@@ -17,17 +17,6 @@
   </a>
 </p>
 
-
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taemie0&show_icons=true&locale=en&theme=material-palenight" alt="taemie0" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taemie0&theme=material-palenight" alt="taemie0" />
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
